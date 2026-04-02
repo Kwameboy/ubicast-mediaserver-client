@@ -63,3 +63,5 @@ backups
 temp
 
 *.csv
+*.txt
+*.html
